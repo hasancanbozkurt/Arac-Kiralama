@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "y24fzlNWdOkYGwjeT97TXeYE+i5I+kSJKeFiGrhN3i8=",
+  "Source": "CarBook1.WebApi",
+  "BasePath": "_content/CarBook1.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

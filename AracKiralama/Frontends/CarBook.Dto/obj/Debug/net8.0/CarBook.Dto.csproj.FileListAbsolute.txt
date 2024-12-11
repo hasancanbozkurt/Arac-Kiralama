@@ -1,0 +1,11 @@
+C:\Users\hasan\source\repos\CarBook1\Frontends\CarBook.Dto\bin\Debug\net8.0\CarBook.Dto.deps.json
+C:\Users\hasan\source\repos\CarBook1\Frontends\CarBook.Dto\bin\Debug\net8.0\CarBook.Dto.dll
+C:\Users\hasan\source\repos\CarBook1\Frontends\CarBook.Dto\bin\Debug\net8.0\CarBook.Dto.pdb
+C:\Users\hasan\source\repos\CarBook1\Frontends\CarBook.Dto\obj\Debug\net8.0\CarBook.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\CarBook1\Frontends\CarBook.Dto\obj\Debug\net8.0\CarBook.Dto.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\CarBook1\Frontends\CarBook.Dto\obj\Debug\net8.0\CarBook.Dto.AssemblyInfo.cs
+C:\Users\hasan\source\repos\CarBook1\Frontends\CarBook.Dto\obj\Debug\net8.0\CarBook.Dto.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\CarBook1\Frontends\CarBook.Dto\obj\Debug\net8.0\CarBook.Dto.dll
+C:\Users\hasan\source\repos\CarBook1\Frontends\CarBook.Dto\obj\Debug\net8.0\refint\CarBook.Dto.dll
+C:\Users\hasan\source\repos\CarBook1\Frontends\CarBook.Dto\obj\Debug\net8.0\CarBook.Dto.pdb
+C:\Users\hasan\source\repos\CarBook1\Frontends\CarBook.Dto\obj\Debug\net8.0\ref\CarBook.Dto.dll
